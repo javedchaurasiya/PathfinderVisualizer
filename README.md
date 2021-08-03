@@ -15,6 +15,9 @@ Bidirectional-BFS etc.
 </br>
 I have also included a Maze-Geneation-algorithm </br>
 coded in C++,It is based on Recursion/DFS/Backtracking.
+</br>
+</br>
+Reference ( https://en.wikipedia.org/wiki/Maze_generation_algorithm );
 
 # INFO
 
