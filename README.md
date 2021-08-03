@@ -1,7 +1,7 @@
 # PathfinderVisualizer
 
 This is a Pathfinder/Graph-Traversal visualizer.</br>
-I have currently added three algoriths for the </br>
+I have currently added three algorithms for the </br>
 same ( BFS, DFS, Dijkstra's Algorith ) but plan </br>
 to add some more namely A* Search Algorithm,</br>
 Bidirectional-BFS etc.
