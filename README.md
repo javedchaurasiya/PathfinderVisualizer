@@ -13,6 +13,8 @@ Bidirectional-BFS etc.
 3.Pure JavaScript </br>
 </br>
 </br>
+Forgive my HTML and CSS 😅😅
+</br></br>
 I have also included a Maze-Geneation-algorithm </br>
 coded in C++,It is based on Recursion/DFS/Backtracking.
 </br>
