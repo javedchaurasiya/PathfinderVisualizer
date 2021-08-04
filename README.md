@@ -5,6 +5,8 @@ I have currently added three algorithms for the </br>
 same ( BFS, DFS, Dijkstra's Algorith ) but plan </br>
 to add some more namely A* Search Algorithm,</br>
 Bidirectional-BFS etc.
+</br></br>
+https://javedchaurasiya.github.io/PathfinderVisualizer/
 
 # What I have used for this Project
 
