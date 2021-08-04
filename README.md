@@ -21,7 +21,12 @@ I have also included a Maze-Generation-algorithm </br>
 coded in C++,It is based on Recursion/DFS/Backtracking.
 </br>
 </br>
-Reference ( https://en.wikipedia.org/wiki/Maze_generation_algorithm );
+Virtual Demo -  ( https://en.wikipedia.org/wiki/Maze_generation_algorithm );
+
+# How to set-up the project 
+1. Download all the files given in same folder.
+2. Run index.hmtl.
+
 
 # INFO
 
